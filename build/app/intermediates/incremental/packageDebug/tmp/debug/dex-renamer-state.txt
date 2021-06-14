@@ -1,0 +1,4 @@
+#Tue Jun 15 00:36:30 IST 2021
+base.0=/Users/varma/varma/crack_interview/test-106-q-bec9824a00ab46b6bf1658fa75cf5e7e-64944-flutter2.2.0-dart2.13-starter/build/app/intermediates/dex/debug/mergeDexDebug/classes.dex
+renamed.0=classes.dex
+path.0=classes.dex
